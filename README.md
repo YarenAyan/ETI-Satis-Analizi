@@ -95,9 +95,9 @@ Bu proje, **Patika.dev** ve **Kız Başına** tarafından yürütülen eğitim k
 
 ---
 
-## 👩‍💻 Geliştirici 
+## 👩‍💻 Geliştirici Hakkında
 
- Her türlü öneri ve geri bildiriminiz için bana ulaşabilirsiniz.
+Merhaba! Ben Yaren Ayan. Bu proje, veri analizi becerilerimi geliştirmek amacıyla Patika.dev & Kız Başına Bootcamp'inde gerçekleştirdiğim bitirme projesi çalışmasıdır. Her türlü öneri ve geri bildiriminiz için bana ulaşabilirsiniz.
 
 * 📧 İletişim: ayanyaren@hotmail.com
 * 📌 GitHub: [@yarenayan](https://github.com/yarenayan)  
